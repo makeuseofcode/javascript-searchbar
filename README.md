@@ -1,6 +1,7 @@
 # javascript-searchbar
 
-This is for the MUO guide on how to create a searchbar using JavaScript.
+This is for the MUO guide on [How to Make a Simple Searchbar Using a List of Strings in JavaScript](https://www.makeuseof.com/javascript-searchbar-simple-using-list-strings/).
+
 
 The project consists of:
 * index.html - UI for the searchbar input
